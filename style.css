@@ -40,6 +40,10 @@ header {
   color: white;
 }
 
+.search-form-button:hover {
+ cursor: pointer;
+}
+
 main {
   padding: 30px 0;
 }
